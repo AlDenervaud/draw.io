@@ -112,7 +112,7 @@
         <mxCell id="YIFYAqOQL7RLjYyvIgsU-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;rotation=-15;" value="Valve" vertex="1">
           <mxGeometry height="20" width="40" x="204" y="209" as="geometry" />
         </mxCell>
-        <mxCell id="YIFYAqOQL7RLjYyvIgsU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Si Q1 &amp;lt;&amp;nbsp; &amp;nbsp;1L/s :&lt;div&gt;&lt;br&gt;&lt;div&gt;Si Q1 &amp;gt;= 1L/s :&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="YIFYAqOQL7RLjYyvIgsU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=4" value="&lt;b&gt;Si Q1 &amp;lt;&amp;nbsp; &amp;nbsp;1L/s :&lt;/b&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;Si Q1 &amp;gt;= 1L/s :&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="37" width="90" x="280" y="34" as="geometry" />
         </mxCell>
         <mxCell id="BS3yAjiV2O9wTyC687Of-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;rotation=15;" value="bi-directional&lt;br&gt;weir" vertex="1">
